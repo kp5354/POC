@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'dell-iot-wp-prod'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C8CD2E7359D48FDA1A16215FB77C2F3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E41B1E10405435596A0C6C9D5943EF9 }}
           package: .
